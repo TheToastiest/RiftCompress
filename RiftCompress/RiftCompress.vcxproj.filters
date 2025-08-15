@@ -18,7 +18,7 @@
     <ClCompile Include="src\RiftCompress.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="src\main.cpp">
+    <ClCompile Include="src\benchtest.cpp">
       <Filter>main</Filter>
     </ClCompile>
   </ItemGroup>

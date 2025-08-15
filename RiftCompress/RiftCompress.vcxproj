@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\benchtest.cpp" />
     <ClCompile Include="src\RiftCompress.cpp" />
   </ItemGroup>
   <ItemGroup>
